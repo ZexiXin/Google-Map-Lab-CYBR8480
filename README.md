@@ -5,11 +5,9 @@ google maps in flutter
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+The link below is the source code of Google Map lab
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [A mobile app featuring a Google Map using the Flutter SDK](https://github.com/ZexiXin/Google-Map-Lab-CYBR8480/lib/main.dart)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
