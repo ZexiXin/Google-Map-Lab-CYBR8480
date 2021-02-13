@@ -7,7 +7,7 @@ google maps in flutter
 This project is a starting point for a Flutter application.
 The link below is the source code of Google Map lab
 
-- [A mobile app featuring a Google Map using the Flutter SDK](https://github.com/ZexiXin/Google-Map-Lab-CYBR8480/lib/main.dart)
+- [A mobile app featuring a Google Map using the Flutter SDK](https://github.com/ZexiXin/Google-Map-Lab-CYBR8480/blob/main/lib/main.dart)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
